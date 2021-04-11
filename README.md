@@ -1,4 +1,4 @@
-# 9R0-789sdv6394
+# 9R0-789sdv6394 ![build](https://img.shields.io/github/workflow/status/9R0-p27bt67/9R0-789sdv6394/CI?label=build)
 
 ## About this project
 
